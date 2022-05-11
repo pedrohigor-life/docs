@@ -2,7 +2,7 @@
 
 ## O que é ?
 
-- Trata-se de uma camada (classe), que fica responsável por toda a manipulação de dados da aoplicação
+- Trata-se de uma camada (classe), que fica responsável por toda a manipulação de dados da aplicação.
 
 ### EX
 
